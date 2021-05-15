@@ -11,7 +11,7 @@ public class EvenNumCheck {
         System.out.print("Enter the number : ");
         int number = scanner.nextInt();
         
-        if (number%2 ==0)
+        if (number%2==0)
         {
             System.out.println("Number is even : " + number);
         }
